@@ -14,7 +14,11 @@ h1 {
 }
 
 body {
+<<<<<<< HEAD
  background-color: pink
+=======
+ background-colour:pink;
+>>>>>>> f0edd8d23afde9e569cdab59fbcdaf41d10e6dd5
 }
 
 p {

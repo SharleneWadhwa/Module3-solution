@@ -14,11 +14,7 @@ h1 {
 }
 
 body {
-  background-image: url("https://lh3.googleusercontent.com/proxy/eWPDNoQZqNpBiZLmPNBc-ZBWEq3Z36m-pJiO_q1G0qfrETw40EPke8Gu62oHefMlHyQ7HEP2CsApiheGi_dvF3U97gZhnBx0lsu2_9i0xz6DNxDc8YZpJXZx1vCYvJwryA");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+ background-colour:pink;
 }
 
 p {
